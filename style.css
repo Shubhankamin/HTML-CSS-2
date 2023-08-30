@@ -1,0 +1,261 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+#title{
+    font-family:'Lucida Sans';
+    text-align: left;
+    margin-left: 15px;
+    font-family:Delius Unicase;
+    color:#FFF;
+}
+#nav{
+
+
+    padding: 10px;
+    display: flex;
+    background-color: #6F6AF7;
+
+}
+#Slogo{
+    width:16px;
+    height: 16px;
+    position: relative;
+    margin-left: 200px;
+    margin-top: 3px;
+}
+#search{
+    margin-top: -3px;
+    position: absolute;
+    padding: 7px 20px;
+    margin-left: 650px;
+    height: 30px;
+}
+
+.items{
+    color: #FFF;
+    font-family:DM Sans ;
+    padding: 2px 30px;
+    font-size: 20px;
+
+}
+#arrow{
+    height: 7px;
+    margin-top: 10px;
+    margin-left: -33px;
+}
+#menu{
+    margin-left: 250px;
+    margin-top: 7px;
+}
+#img1{
+    margin-top: -160px;
+    margin-left: 120px;
+    
+    height: 30%;
+    width: 30%;
+}
+#txt1{
+    font-family: Delius Unicase;
+    height: 380px;
+    padding: 20px;
+    position: absolute;
+    margin-top: -160px;
+    margin-left: 40px;
+    border-radius: 10px;
+    background-color: #E5D8FF;
+    border-color: #E5D8FF;
+}
+#nav{
+    text-align: center;
+    text-align: 14px 16px;
+}
+.links{
+    align-items: left;
+}
+#box1{
+    font-family:DM Sans ;
+    color: white;
+    float: left;
+    padding: 10px;
+    margin-top: 50px;
+    margin-left: 110px;
+    height: 50px;
+    width: 150px;
+    background-color:#929DFF;
+    border-radius: 10px;
+    
+}
+#box2{
+    font-family:DM Sans ;
+    color: white;
+    float: left;
+    padding: 10px;
+    margin-top: 50px;
+    margin-left: 110px;
+    height: 50px;
+    width: 150px;
+    background-color:#734CF2;
+    border-radius: 10px ;
+    
+}
+#box3{
+    font-family:DM Sans ;
+    color: white;
+    float: left;
+    padding: 10px;
+    margin-top: 50px;
+    margin-left: 110px;
+    height: 50px;
+    width: 150px;
+    background-color:#D288FF;
+    border-radius: 10px;
+    
+}
+#box4{
+    text-align: left;
+    font-family:DM Sans ;
+    color: white;
+    float: left;
+    padding: 10px;
+    margin-top: 50px;
+    margin-left: 110px;
+    height: 50px;
+    width: 150px;
+    background-color:#000000;
+    border-radius: 10px ;
+    
+}
+#outbox{
+    border-radius: 10px;
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 12%;
+    width:950px;
+    height:58%;
+    background-color: #483EFF;
+
+}
+#sbox1{
+    font-family:DM Sans ;
+    padding: 23px;
+    color: black;
+    text-align: center;
+    border-radius: 8px;
+    position: relative;
+    margin-left: 40px;
+    margin-top: 30px;
+    display: inline-block;
+    height: 70px;
+    width: 170px;
+    border-color: white;
+    background-color:#BCE0F6;
+
+}
+#sbox2{
+    border-color: white;
+    border-style: solid;
+    font-family:DM Sans ;
+    color: white;
+    padding: 23px;
+    text-align: center;
+    border-radius: 8px;
+    position: relative;
+    margin-left: 40px;
+    margin-top: 30px;
+    display: inline-block;
+    height: 70px;
+    width: 170px;
+    background-color:rgb(72, 72, 239);
+    border-color: white;
+
+}
+#sbox3{
+    font-family:DM Sans ;
+    color:white;
+    padding: 23px;
+    text-align: center;
+    border-radius: 8px;
+    position: relative;
+    margin-left: 40px;
+    margin-top: 30px;
+    display: inline-block;
+    height: 70px;
+    width: 170px;
+    background-color:#483EFF;
+    border-color:white ;
+    border-style: solid;
+
+}
+#inbox{
+    color: #04285A;
+    font-family:DM Sans ;
+    position: relative;
+    border-radius: 8px;
+    margin-left: 235px;
+    margin-top: -280px;
+    height:300px;
+    width: 700px;
+    background-color: white;
+}
+#button{
+    width: 80px;
+    height: 30px;
+    color:white;
+    background-color: #000000;
+    margin-top: 40px;
+    margin-left: 580px;
+
+}
+.detail{
+    padding: 10px 20px;
+    margin-left: 20px;
+
+}
+#head{
+    color: #04285A;
+    font-size: larger;
+    padding: 20px 20px;
+}
+#help{
+    width: 80px;
+    height: 80px;
+    position: relative;
+    margin-left: 80px;
+    margin-top: -30px;
+}
+#whatsapp{
+    padding-left: 1100px;
+    padding-top: 200px;
+
+
+}
+#main{
+    position: relative;
+    margin-top: 120px;
+   margin-left: 1100px;
+}
+#whats{
+    border: #000000;
+    border-width: 5px;
+
+}
+#fb{
+    width:10px;
+    height: 10px;
+    margin-top: 10px;
+
+}
+#twt{
+    width: 10px;
+    height:10px;
+    margin-top:40px;
+}
+
+
+
